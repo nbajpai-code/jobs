@@ -1,6 +1,6 @@
 # Tech Jobs Aggregator
 
-Automated job listings for DC and SF (Last 7 days). Last updated: 2025-12-03 01:08:26 UTC
+Automated job listings for DC and SF (Last 7 days). Last updated: 2025-12-03 01:23:26 UTC
 
 ## Washington, DC
 
@@ -31,17 +31,16 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2025-12-03 01:
 
 - [Site Reliability Engineer (SRE)](https://www.indeed.com/viewjob?jk=fb660d4ff5883048) - **LIGHTFEATHER IO LLC** (indeed) - *2025-12-01*
 - [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=b02d42859a763554) - **Steampunk** (indeed) - *2025-11-28*
-- [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=683b1e0c9dcfe121) - **Booz Allen Hamilton** (indeed) - *2025-11-25*
 - [Cloud Engineer](https://www.linkedin.com/jobs/view/4340119449) - **LightFeather** (linkedin) - *2025-12-01*
 - [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4340180022) - **LightFeather** (linkedin) - *2025-12-01*
 - [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4325216449) - **Piper Companies** (linkedin) - *2025-12-01*
+- [Platform Engineer](https://www.linkedin.com/jobs/view/4339419771) - **Oteemo Inc.** (linkedin) - *2025-11-30*
 - [Junior DevOps Engineer](https://www.linkedin.com/jobs/view/4315888714) - **eSimplicity** (linkedin) - *2025-11-28*
 - [DevOps Engineer - Early Career](https://www.linkedin.com/jobs/view/4339014708) - **Lockheed Martin** (linkedin) - *2025-11-26*
 - [Mechanical Engineer, Cooling System, Google Data Centers](https://www.linkedin.com/jobs/view/4324582463) - **Google** (linkedin) - *2025-11-26*
 - [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4340318922) - **Kforce Inc** (linkedin) - *NaT*
 - [Site Reliability Engineer (6170)](https://www.linkedin.com/jobs/view/4339613528) - **MetroStar** (linkedin) - *NaT*
 - [DevOps Engineer - Early Career](https://www.linkedin.com/jobs/view/4341080023) - **Lensa** (linkedin) - *NaT*
-- [Systems Engineer](https://www.linkedin.com/jobs/view/4341296188) - **Redhorse Corporation** (linkedin) - *NaT*
 
 ### Cloud Engineer
 
@@ -60,8 +59,8 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2025-12-03 01:
 - [GCP Cloud/DevOps Engineer](https://www.linkedin.com/jobs/view/4339809999) - **LightFeather** (linkedin) - *2025-12-01*
 - [Senior AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4340139329) - **LightFeather** (linkedin) - *2025-12-01*
 - [AWS Lead Cloud Engineer](https://www.linkedin.com/jobs/view/4339439845) - **LightFeather** (linkedin) - *2025-12-01*
-- [DevSecOps Engineer](https://www.linkedin.com/jobs/view/4339469993) - **LightFeather** (linkedin) - *2025-12-01*
 - [Cloud Infrastructure Architect](https://www.linkedin.com/jobs/view/4340168055) - **UltraViolet Cyber** (linkedin) - *2025-12-01*
+- [DevSecOps Engineer](https://www.linkedin.com/jobs/view/4339469993) - **LightFeather** (linkedin) - *2025-12-01*
 - [Junior DevOps Engineer](https://www.linkedin.com/jobs/view/4315888714) - **eSimplicity** (linkedin) - *2025-11-28*
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4339088915) - **CaseGuard** (linkedin) - *2025-11-26*
 - [Cloud Engineer](https://www.linkedin.com/jobs/view/4347763274) - **ANG Signal** (linkedin) - *2025-11-26*
