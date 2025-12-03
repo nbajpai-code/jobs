@@ -20,7 +20,7 @@ def fetch_jobs():
             print(f"Searching for {term} in {location}...")
             try:
                 jobs = scrape_jobs(
-                    site_name=["indeed", "linkedin", "glassdoor"],
+                    site_name=["indeed", "linkedin", "glassdoor", "google", "zip_recruiter"],
                     search_term=term,
                     location=location,
                     results_wanted=10,
