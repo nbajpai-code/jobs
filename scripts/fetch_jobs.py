@@ -20,10 +20,10 @@ def fetch_jobs():
             print(f"Searching for {term} in {location}...")
             try:
                 jobs = scrape_jobs(
-                    site_name = ["indeed", "linkedin", "glassdoor", "google", "zip_recruiter", "monster", "careerbuilder", "simplyhired", "flexjobs", "dice", "usajobs"],
+                    site_name = ["indeed", "linkedin", "glassdoor", "google", "zip_recruiter"],
                     search_term=term,
                     location=location,
-                    results_wanted=10,
+                    results_wanted=20,
                     hours_old=168, # Last 7 days
                     country_watchlist=["USA"]
                 )
@@ -31,8 +31,14 @@ def fetch_jobs():
                     jobs['search_term'] = term
                     jobs['search_location'] = location
                     all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
+                    print(f"  Found {len(jobs)} jobs for {term} in {location}")
+                else:
+                    print(f"  No jobs found for {term} in {location}")
             except Exception as e:
                 print(f"Error fetching {term} in {location}: {e}")
+                # Continue to next search even if one fails
+                continue
+
 
     return all_jobs
 
