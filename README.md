@@ -1,51 +1,51 @@
 # Tech Jobs Aggregator
 
-Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-15 09:25:59 UTC
+Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-16 09:23:44 UTC
 
 ## Washington, DC
 
 ### Software Engineer
 
-- [Electrical Engineer – Embedded Programming (Hardware Simulators / HIL Testbeds)](https://www.indeed.com/viewjob?jk=f992551ad467c987) - **Integration Innovation, Inc** (indeed) - *2026-01-14*
-- [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=0b53778238b22f04) - **Constellation Energy** (indeed) - *2026-01-13*
-- [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.indeed.com/viewjob?jk=0f175bac7bff5335) - **Amazon.com** (indeed) - *2025-12-02*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=81931ed568bf51aa) - **Amazon.com** (indeed) - *2025-09-19*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=414f68cd51df3738) - **Amazon.com** (indeed) - *2025-09-19*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=149c4ccc7116cb8c) - **Amazon.com** (indeed) - *2025-09-19*
-- [Delivery Consultant - DevOps, WWPS ProServe FedFin](https://www.indeed.com/viewjob?jk=8a7787d5e0d52cb5) - **Amazon Web Services** (indeed) - *2025-08-07*
-- [Delivery Consultant - DevOps, WWPS ProServe FedFin](https://www.indeed.com/viewjob?jk=023e0fe03033318a) - **Amazon Web Services** (indeed) - *2025-08-07*
-- [Senior Delivery Consultant - DevOps , Professional Services](https://www.indeed.com/viewjob?jk=2b5f596d21564246) - **Amazon Web Services** (indeed) - *2025-08-01*
-- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=e74860f90b0dfdcd) - **Amazon Web Services** (indeed) - *2025-07-30*
-- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=d392a29f55463b77) - **Amazon Web Services** (indeed) - *2025-07-30*
-- [Security Delivery Practice Manager](https://www.indeed.com/viewjob?jk=b3f516487f6af0a0) - **Amazon Web Services** (indeed) - *2025-07-18*
-- [Security Delivery Practice Manager](https://www.indeed.com/viewjob?jk=76dca4147fcd0056) - **Amazon Web Services** (indeed) - *2025-07-18*
-- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=47057883b166e40e) - **Amazon Web Services** (indeed) - *2025-05-28*
-- [Software Development Engineer II, Delivery Choice](https://www.indeed.com/viewjob?jk=b087521aab9aed07) - **Amazon.com** (indeed) - *2025-04-30*
-- [Delivery Consultant - DevOps, WWPS ProServe](https://www.indeed.com/viewjob?jk=4cec378fc33cf06f) - **Amazon Web Services** (indeed) - *2025-04-16*
-- [Delivery Consultant - DevOps, WWPS ProServe](https://www.indeed.com/viewjob?jk=563d52dd5c12b76d) - **Amazon Web Services** (indeed) - *2025-04-16*
-- [Software Development Engineer, Search - Prime Video](https://www.indeed.com/viewjob?jk=9e48417c5c577f33) - **Amazon.com** (indeed) - *2025-03-26*
-- [Software Development Engineer, Live Sports - Prime Video](https://www.indeed.com/viewjob?jk=ad9467647f51bb34) - **Amazon.com** (indeed) - *2025-03-26*
-- [Systems Development Engineer II , Corporate Infrastructure Tools and Engineering](https://www.indeed.com/viewjob?jk=5e5b9190c1560058) - **Amazon.com** (indeed) - *2025-02-27*
+- [Software Engineer - Junior Level](https://www.indeed.com/viewjob?jk=4208a9af31b91984) - **Boeing** (indeed) - *2026-01-16*
+- [Senior Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=3dcd041749e27b59) - **Boeing** (indeed) - *2026-01-15*
+- [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.indeed.com/viewjob?jk=4b9d70ab08606152) - **Amazon.com** (indeed) - *2025-12-02*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=64490117765120a7) - **Amazon.com** (indeed) - *2025-09-19*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=2af40ee1add56fbd) - **Amazon.com** (indeed) - *2025-09-19*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=da6dfbaa162b79a8) - **Amazon.com** (indeed) - *2025-09-19*
+- [Delivery Consultant - DevOps, WWPS ProServe FedFin](https://www.indeed.com/viewjob?jk=481900534cea666f) - **Amazon Web Services** (indeed) - *2025-08-07*
+- [Delivery Consultant - DevOps, WWPS ProServe FedFin](https://www.indeed.com/viewjob?jk=40b394aeb50905bd) - **Amazon Web Services** (indeed) - *2025-08-07*
+- [Senior Delivery Consultant - DevOps , Professional Services](https://www.indeed.com/viewjob?jk=6c189c9dd0084ec2) - **Amazon Web Services** (indeed) - *2025-08-01*
+- [Senior Delivery Consultant - DevOps , Professional Services](https://www.indeed.com/viewjob?jk=8432da5266cf3ddc) - **Amazon Web Services** (indeed) - *2025-08-01*
+- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=4f0fb25e3e104006) - **Amazon Web Services** (indeed) - *2025-07-30*
+- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=ddc0aa5500d23ef9) - **Amazon Web Services** (indeed) - *2025-07-30*
+- [Security Delivery Practice Manager](https://www.indeed.com/viewjob?jk=e0a38ed936d076fb) - **Amazon Web Services** (indeed) - *2025-07-18*
+- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=40da3bb0ee8c1e2b) - **Amazon Web Services** (indeed) - *2025-05-28*
+- [Software Development Engineer II, Delivery Choice](https://www.indeed.com/viewjob?jk=d65a5319bab68528) - **Amazon.com** (indeed) - *2025-04-30*
+- [Delivery Consultant - DevOps, WWPS ProServe](https://www.indeed.com/viewjob?jk=2b81a6ab28d53eea) - **Amazon Web Services** (indeed) - *2025-04-16*
+- [Delivery Consultant - DevOps, WWPS ProServe](https://www.indeed.com/viewjob?jk=9e5fcf511085ee77) - **Amazon Web Services** (indeed) - *2025-04-16*
+- [Software Development Engineer, Live Sports - Prime Video](https://www.indeed.com/viewjob?jk=629687dadfd010a9) - **Amazon.com** (indeed) - *2025-03-26*
+- [Software Development Engineer, Search - Prime Video](https://www.indeed.com/viewjob?jk=35e5f4adacb8d7e5) - **Amazon.com** (indeed) - *2025-03-26*
+- [Systems Development Engineer II , Corporate Infrastructure Tools and Engineering](https://www.indeed.com/viewjob?jk=6dd651f2a527bf9c) - **Amazon.com** (indeed) - *2025-02-27*
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4362456424) - **Visionist, Inc.** (linkedin) - *2026-01-15*
+- [Software Engineer (All Levels Considered)](https://www.linkedin.com/jobs/view/4362702808) - **Belay Technologies** (linkedin) - *2026-01-15*
 - [Junior Developer](https://www.linkedin.com/jobs/view/4352962275) - **Northstrat Incorporated** (linkedin) - *2026-01-14*
-- [Software Engineer Full Stack & Application Development I (Full Time) – United States](https://www.linkedin.com/jobs/view/4340765763) - **Cisco** (linkedin) - *2026-01-13*
 - [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4361158751) - **Visionist, Inc.** (linkedin) - *2026-01-13*
+- [Software Engineer Full Stack & Application Development I (Full Time) – United States](https://www.linkedin.com/jobs/view/4340765763) - **Cisco** (linkedin) - *2026-01-13*
 - [Junior Software Engineer](https://www.linkedin.com/jobs/view/4360777768) - **Belay Technologies** (linkedin) - *2026-01-13*
 - [Junior Full Stack Developer](https://www.linkedin.com/jobs/view/4361297809) - **Bespoke Technologies, Inc.** (linkedin) - *2026-01-13*
-- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4361635207) - **AM Pierce & Associates, Inc.** (linkedin) - *2026-01-12*
 - [Software Engineer/Developer](https://www.linkedin.com/jobs/view/4352581873) - **Northstrat Incorporated** (linkedin) - *2026-01-12*
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4361635207) - **AM Pierce & Associates, Inc.** (linkedin) - *2026-01-12*
 - [Software Developer](https://www.linkedin.com/jobs/view/4361196152) - **Government Tactical Solutions, LLC** (linkedin) - *2026-01-12*
 - [Software Engineer - Frontend](https://www.linkedin.com/jobs/view/3960991127) - **Applied Intuition** (linkedin) - *2026-01-09*
-- [Software Engineer I](https://www.linkedin.com/jobs/view/4359462576) - **Reflexive Concepts** (linkedin) - *2026-01-09*
 - [Software Engineer](https://www.linkedin.com/jobs/view/4324628704) - **Cape** (linkedin) - *2026-01-09*
 - [Web Developer](https://www.linkedin.com/jobs/view/4339181532) - **FWI (FedWriters, Inc.)** (linkedin) - *2026-01-09*
 - [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4350255427) - **Meta** (linkedin) - *2026-01-09*
-- [Software Engineer I](https://www.linkedin.com/jobs/view/4352082986) - **Ticketmaster** (linkedin) - *2026-01-08*
-- [Junior Full Stack Developer](https://www.linkedin.com/jobs/view/4183196958) - **Addison Group** (linkedin) - *2026-01-08*
-- [Software Engineer, Product](https://www.linkedin.com/jobs/view/4255815171) - **Meta** (linkedin) - *2026-01-08*
-- [Software Engineer I](https://www.linkedin.com/jobs/view/4358974483) - **Reflexive Concepts** (linkedin) - *2026-01-08*
-- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4362456424) - **Visionist, Inc.** (linkedin) - *NaT*
-- [Software Engineer (All Levels Considered)](https://www.linkedin.com/jobs/view/4362702808) - **Belay Technologies** (linkedin) - *NaT*
-- [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4362703640) - **Visionist, Inc.** (linkedin) - *NaT*
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4362726831) - **Redhorse Corporation** (linkedin) - *NaT*
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4362900903) - **Redhorse Corporation** (linkedin) - *NaT*
+- [Software Engineer, Product](https://www.linkedin.com/jobs/view/4257695454) - **Meta** (linkedin) - *NaT*
+- [Software Engineer I](https://www.linkedin.com/jobs/view/4362930956) - **Reflexive Concepts** (linkedin) - *NaT*
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4353450711) - **PerformYard** (linkedin) - *NaT*
+- [Front End Engineer](https://www.linkedin.com/jobs/view/4353244183) - **EVONA** (linkedin) - *NaT*
 
 ### Site Reliability Engineer
 
@@ -55,164 +55,167 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-15 09:
 - [Site Reliability Engineer with Active Secret Clearance](https://www.indeed.com/viewjob?jk=b7241212b3ccd318) - **Fustis LLC** (indeed) - *2026-01-14*
 - [Site Reliability Engineer, Lead](https://www.indeed.com/viewjob?jk=d01a46ab661d8961) - **Booz Allen Hamilton** (indeed) - *2026-01-12*
 - [Senior Site Reliability Engineer](https://www.indeed.com/viewjob?jk=c4dadc0ca6a6dde6) - **Steampunk** (indeed) - *2026-01-09*
-- [Site Reliability Engineer, Mid](https://www.indeed.com/viewjob?jk=237a6fd4232b198a) - **Booz Allen Hamilton** (indeed) - *2026-01-08*
-- [University – Site Reliability Engineer](https://www.indeed.com/viewjob?jk=9ad07e636efa63cc) - **Booz Allen Hamilton** (indeed) - *2026-01-08*
-- [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=14a95c5faec90e2d) - **Booz Allen Hamilton** (indeed) - *2026-01-08*
-- [Sr. Site Reliability Engineer - AWS Geospatial Technology](https://www.indeed.com/viewjob?jk=2489ec6335dc3d01) - **Esri** (indeed) - *2026-01-08*
-- [DevOps Engineer, Cloud & Platform Operations (Multiple Levels) - Fully Cleared](https://www.linkedin.com/jobs/view/4361358060) - **Intelliforce-IT Solutions Group, LLC.** (linkedin) - *2026-01-14*
+- [Site Reliability Engineer 5](https://www.indeed.com/viewjob?jk=a1af1e165ed35976) - **Netflix** (indeed) - *2026-01-07*
+- [154935 Site Reliability Engineer](https://www.linkedin.com/jobs/view/4362318685) - **JSM Consulting Inc.** (linkedin) - *2026-01-15*
+- [DevOps Engineer (RHEL)](https://www.linkedin.com/jobs/view/4244833979) - **Maximus** (linkedin) - *2026-01-14*
+- [SRE -Site Reliability Engineer](https://www.linkedin.com/jobs/view/4362335568) - **Inherent Technologies** (linkedin) - *2026-01-14*
+- [DevOps Engineer](https://www.linkedin.com/jobs/view/4361658990) - **LightFeather** (linkedin) - *2026-01-14*
+- [Network Monitoring Engineer](https://www.linkedin.com/jobs/view/4219835524) - **Maximus** (linkedin) - *2026-01-14*
+- [Cloud Engineer](https://www.linkedin.com/jobs/view/4361686827) - **LightFeather** (linkedin) - *2026-01-14*
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4353010318) - **TechTrend, Inc.** (linkedin) - *2026-01-13*
 - [DOW - Software Quality Assurance Engineer and Tester](https://www.linkedin.com/jobs/view/4352951019) - **cFocus Software Incorporated** (linkedin) - *2026-01-13*
+- [Sr. DevOps Engineer](https://www.linkedin.com/jobs/view/4354834590) - **AAJ Interactive Technologies** (linkedin) - *2026-01-13*
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4361533552) - **TheIncLab** (linkedin) - *2026-01-13*
 - [DOW - Cloud Engineer/Administrator](https://www.linkedin.com/jobs/view/4352901251) - **cFocus Software Incorporated** (linkedin) - *2026-01-13*
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4361571624) - **Booz Allen Hamilton** (linkedin) - *2026-01-13*
-- [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4354706036) - **Jobs via Dice** (linkedin) - *2026-01-13*
-- [Sr. DevOps Engineer](https://www.linkedin.com/jobs/view/4354834590) - **AAJ Interactive Technologies** (linkedin) - *2026-01-13*
 - [Software Engineer III](https://www.linkedin.com/jobs/view/4361504142) - **ProSync Technology Group, LLC** (linkedin) - *2026-01-13*
-- [System Engineer III](https://www.linkedin.com/jobs/view/4361354562) - **ProSync Technology Group, LLC** (linkedin) - *2026-01-13*
 - [Software Engineer I](https://www.linkedin.com/jobs/view/4361504234) - **Reflexive Concepts** (linkedin) - *2026-01-13*
+- [System Engineer III](https://www.linkedin.com/jobs/view/4361354562) - **ProSync Technology Group, LLC** (linkedin) - *2026-01-13*
+- [Systems Engineer, New College Grad - 2026, Ashburn](https://www.linkedin.com/jobs/view/4354495911) - **Visa** (linkedin) - *2026-01-13*
 - [Jr Site Reliability Engineer](https://www.linkedin.com/jobs/view/4354771123) - **Take2 Consulting, LLC** (linkedin) - *2026-01-12*
 - [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4360601704) - **Powder River Industries** (linkedin) - *2026-01-10*
-- [Systems Engineer](https://www.linkedin.com/jobs/view/4343854956) - **hackajob** (linkedin) - *2026-01-09*
-- [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4344339752) - **Blue Yonder** (linkedin) - *2026-01-08*
-- [DevOps Engineer (RHEL)](https://www.linkedin.com/jobs/view/4244833979) - **Maximus** (linkedin) - *NaT*
-- [SRE -Site Reliability Engineer](https://www.linkedin.com/jobs/view/4362335568) - **Inherent Technologies** (linkedin) - *NaT*
-- [DevOps Engineer](https://www.linkedin.com/jobs/view/4361658990) - **LightFeather** (linkedin) - *NaT*
-- [Network Monitoring Engineer](https://www.linkedin.com/jobs/view/4219835524) - **Maximus** (linkedin) - *NaT*
-- [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4354877777) - **Idexcel** (linkedin) - *NaT*
+- [DevOps Engineer (JIRA)](https://www.linkedin.com/jobs/view/4363671240) - **Rubix Solutions** (linkedin) - *NaT*
+- [Site Reliability Engineer SRE](https://www.linkedin.com/jobs/view/4362717132) - **JPS Tech Solutions** (linkedin) - *NaT*
 
 ### Cloud Engineer
 
-- [Senior Fire Protection Engineer (MS/PhD)](https://www.indeed.com/viewjob?jk=c3e7015f1be011ac) - **Exponent** (indeed) - *2026-01-14*
-- [Senior Security Engineer](https://www.indeed.com/viewjob?jk=a6d4afd1ece0c3c6) - **Edgewater Federal Solutions** (indeed) - *2026-01-14*
-- [Senior Substation Physical Engineer](https://www.indeed.com/viewjob?jk=5f28ffe7588c325f) - **Kimley-Horn** (indeed) - *2026-01-14*
-- [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=0b53778238b22f04) - **Constellation Energy** (indeed) - *2026-01-13*
-- [Sr. Cyber Security Engineer - IT](https://www.indeed.com/viewjob?jk=610516d116519ea4) - **Constellation Energy** (indeed) - *2026-01-13*
-- [Engineer, Senior Mechanical](https://www.indeed.com/viewjob?jk=db4887224783a7e0) - **Constellation Energy** (indeed) - *2025-10-16*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=81931ed568bf51aa) - **Amazon.com** (indeed) - *2025-09-19*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=414f68cd51df3738) - **Amazon.com** (indeed) - *2025-09-19*
-- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=149c4ccc7116cb8c) - **Amazon.com** (indeed) - *2025-09-19*
-- [Regional Environmental Engineer, AWS Environmental Team](https://www.indeed.com/viewjob?jk=1106646ff20b464c) - **Amazon Web Services** (indeed) - *2025-09-15*
-- [Senior Energy Efficiency Development Engineer](https://www.indeed.com/viewjob?jk=7e8744a22e200307) - **Constellation Energy** (indeed) - *2025-09-10*
-- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=e74860f90b0dfdcd) - **Amazon Web Services** (indeed) - *2025-07-30*
-- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=d392a29f55463b77) - **Amazon Web Services** (indeed) - *2025-07-30*
-- [Sr. Physical Security Engineer (GovCloud), Data Center Design Engineering](https://www.indeed.com/viewjob?jk=5ae82dcdc730df3b) - **Amazon.com** (indeed) - *2025-06-20*
-- [Senior Systems Development Engineer, AWS EC2 Edge Frontier](https://www.indeed.com/viewjob?jk=238d57e2e9572ae3) - **Amazon Web Services** (indeed) - *2025-04-04*
-- [Senior Systems Development Engineer, AWS EC2 Edge Frontier](https://www.indeed.com/viewjob?jk=64a07702ad143792) - **Amazon Web Services** (indeed) - *2025-04-04*
-- [Senior Delivery Consultant - Cloud Application Architecture , AWS Professional Services, CAA](https://www.indeed.com/viewjob?jk=e565614a039cea9e) - **Amazon Web Services** (indeed) - *2025-03-20*
-- [Senior Delivery Consultant - Cloud Application Architecture , AWS Professional Services, CAA](https://www.indeed.com/viewjob?jk=cac440b884c261d3) - **Amazon Web Services** (indeed) - *2025-03-20*
-- [Systems Development Engineer II , Corporate Infrastructure Tools and Engineering](https://www.indeed.com/viewjob?jk=5e5b9190c1560058) - **Amazon.com** (indeed) - *2025-02-27*
-- [Senior Operations Engineer, Operations Engineering](https://www.indeed.com/viewjob?jk=1458c5484b61aae7) - **Amazon.com** (indeed) - *2025-02-05*
+- [Design Architect/Engineer Supervisory](https://www.indeed.com/viewjob?jk=cb3ad403f8544bee) - **Metropolitan Washington Airports Authority** (indeed) - *2026-01-16*
+- [Sr. Staff Engineer III](https://www.indeed.com/viewjob?jk=25b7565705327fc6) - **Columbus Technologies and Services Inc.** (indeed) - *2026-01-15*
+- [Senior Solutions Engineer](https://www.indeed.com/viewjob?jk=590f46eb6a553f24) - **Chenega Corporation** (indeed) - *2026-01-15*
+- [Senior Network Information Security Engineer](https://www.indeed.com/viewjob?jk=8bdea7298b37e922) - **VHC Health** (indeed) - *2026-01-15*
+- [Senior Information Security Engineer - Microsoft](https://www.indeed.com/viewjob?jk=3597a26fddcb1169) - **VHC Health** (indeed) - *2026-01-15*
+- [Senior Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=3dcd041749e27b59) - **Boeing** (indeed) - *2026-01-15*
+- [Sr. System Development Engineer, AWS Cross Domain Services](https://www.indeed.com/viewjob?jk=b0d14190bc072464) - **Amazon Web Services** (indeed) - *2025-10-13*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=64490117765120a7) - **Amazon.com** (indeed) - *2025-09-19*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=2af40ee1add56fbd) - **Amazon.com** (indeed) - *2025-09-19*
+- [System Development Engineer, STRADA - Service Transformation and Deployment Automation](https://www.indeed.com/viewjob?jk=da6dfbaa162b79a8) - **Amazon.com** (indeed) - *2025-09-19*
+- [Regional Environmental Engineer, AWS Environmental Team](https://www.indeed.com/viewjob?jk=19276f03a638b9a0) - **Amazon Web Services** (indeed) - *2025-09-15*
+- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=4f0fb25e3e104006) - **Amazon Web Services** (indeed) - *2025-07-30*
+- [Software Development Engineer III, Region Reliability, Region Reliability Development](https://www.indeed.com/viewjob?jk=ddc0aa5500d23ef9) - **Amazon Web Services** (indeed) - *2025-07-30*
+- [Sr. Physical Security Engineer (GovCloud), Data Center Design Engineering](https://www.indeed.com/viewjob?jk=da1cfa8dc310fe3c) - **Amazon.com** (indeed) - *2025-06-20*
+- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=40da3bb0ee8c1e2b) - **Amazon Web Services** (indeed) - *2025-05-28*
+- [Senior Systems Development Engineer, AWS EC2 Edge Frontier](https://www.indeed.com/viewjob?jk=2eb223a43acba4c2) - **Amazon Web Services** (indeed) - *2025-04-04*
+- [Senior Delivery Consultant - Cloud Application Architecture , AWS Professional Services, CAA](https://www.indeed.com/viewjob?jk=770646bc42586715) - **Amazon Web Services** (indeed) - *2025-03-20*
+- [Senior Delivery Consultant - Cloud Application Architecture , AWS Professional Services, CAA](https://www.indeed.com/viewjob?jk=65cc1df9c0c69e68) - **Amazon Web Services** (indeed) - *2025-03-20*
+- [Systems Development Engineer II , Corporate Infrastructure Tools and Engineering](https://www.indeed.com/viewjob?jk=6dd651f2a527bf9c) - **Amazon.com** (indeed) - *2025-02-27*
+- [Senior Operations Engineer, Operations Engineering](https://www.indeed.com/viewjob?jk=0fb437c7c11f267a) - **Amazon.com** (indeed) - *2025-02-05*
+- [DevOps Engineer](https://www.linkedin.com/jobs/view/4353480848) - **Dobbs Defense Solutions** (linkedin) - *2026-01-15*
+- [Cloud Engineer](https://www.linkedin.com/jobs/view/4361686827) - **LightFeather** (linkedin) - *2026-01-14*
+- [DevOps Engineer](https://www.linkedin.com/jobs/view/4361658990) - **LightFeather** (linkedin) - *2026-01-14*
+- [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4361696485) - **LightFeather** (linkedin) - *2026-01-14*
+- [DevOps Engineer, Cloud & Platform Operations (Multiple Levels) - Fully Cleared](https://www.linkedin.com/jobs/view/4361358060) - **Intelliforce-IT Solutions Group, LLC.** (linkedin) - *2026-01-14*
+- [Cloud DevSecOps Engineer](https://www.linkedin.com/jobs/view/4362454179) - **LightFeather** (linkedin) - *2026-01-14*
+- [GCP Cloud/DevOps Engineer](https://www.linkedin.com/jobs/view/4361677081) - **LightFeather** (linkedin) - *2026-01-14*
+- [Junior DevOps Software Engineer- Fully Cleared](https://www.linkedin.com/jobs/view/4362394632) - **Intelliforce-IT Solutions Group, LLC.** (linkedin) - *2026-01-14*
 - [AWS DevSecOps Engineer](https://www.linkedin.com/jobs/view/4362348987) - **Pantheon Data** (linkedin) - *2026-01-14*
-- [Lead Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4361336485) - **Endurance IT Services** (linkedin) - *2026-01-13*
-- [AWS Cloud Engineer (Hybrid) - 26569](https://www.linkedin.com/jobs/view/4360634327) - **HII** (linkedin) - *2026-01-11*
-- [Senior Cloud Solutions Engineer](https://www.linkedin.com/jobs/view/4338247567) - **Cloudforce** (linkedin) - *2026-01-10*
-- [Senior Cloud Engineer / Specialist (OASE)](https://www.linkedin.com/jobs/view/4337397827) - **Oracle** (linkedin) - *2026-01-09*
-- [DevOps Engineer](https://www.linkedin.com/jobs/view/4344864587) - **BAE Systems, Inc.** (linkedin) - *2026-01-09*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4359735955) - **SteerBridge** (linkedin) - *2026-01-09*
-- [Junior DevOps Engineer](https://www.linkedin.com/jobs/view/4332202024) - **RIVA Solutions, Inc.** (linkedin) - *2026-01-09*
-- [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4359715298) - **LightFeather** (linkedin) - *2026-01-09*
-- [AWS Cloud Architect](https://www.linkedin.com/jobs/view/4362425653) - **LightFeather** (linkedin) - *NaT*
-- [Senior DevOps Engineer (Cloud)](https://www.linkedin.com/jobs/view/4357681976) - **The Amatriot Group** (linkedin) - *NaT*
-- [GCP Cloud Engineer](https://www.linkedin.com/jobs/view/4362721204) - **LightFeather** (linkedin) - *NaT*
-- [Cloud Software Engineer](https://www.linkedin.com/jobs/view/4362378048) - **Visionist, Inc.** (linkedin) - *NaT*
-- [Cloud Engineer](https://www.linkedin.com/jobs/view/4362741598) - **Tria Federal (Tria)** (linkedin) - *NaT*
-- [AWS Lead Cloud Engineer](https://www.linkedin.com/jobs/view/4361669018) - **LightFeather** (linkedin) - *NaT*
-- [Cloud Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4362405746) - **LightFeather** (linkedin) - *NaT*
-- [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4362316070) - **LightFeather** (linkedin) - *NaT*
-- [Cloud Engineer](https://www.linkedin.com/jobs/view/4355082487) - **AARATECH** (linkedin) - *NaT*
-- [Cloud Engineer](https://www.linkedin.com/jobs/view/4359061284) - **Creative Information Technology, Inc.** (linkedin) - *NaT*
-- [Cloud Engineer](https://www.linkedin.com/jobs/view/4359120601) - **SecureStrux®** (linkedin) - *NaT*
+- [AWS Cloud Architect](https://www.linkedin.com/jobs/view/4362425653) - **LightFeather** (linkedin) - *2026-01-14*
+- [AWS Lead Cloud Engineer](https://www.linkedin.com/jobs/view/4361669018) - **LightFeather** (linkedin) - *2026-01-14*
+- [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4362316070) - **LightFeather** (linkedin) - *2026-01-14*
+- [Cloud Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4362405746) - **LightFeather** (linkedin) - *2026-01-14*
+- [Senior AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4362395725) - **LightFeather** (linkedin) - *2026-01-14*
+- [DevOps Engineer](https://www.linkedin.com/jobs/view/4354741727) - **Amivero** (linkedin) - *2026-01-12*
+- [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4359990973) - **Cloudforce** (linkedin) - *2026-01-10*
+- [DevOps Engineer (JIRA)](https://www.linkedin.com/jobs/view/4363671240) - **Rubix Solutions** (linkedin) - *NaT*
+- [Junior AI developer](https://www.linkedin.com/jobs/view/4346301575) - **Syntax** (linkedin) - *NaT*
+- [Cloud Engineer](https://www.linkedin.com/jobs/view/4359136974) - **AARATECH** (linkedin) - *NaT*
+- [Infrastructure Cloud Engineer](https://www.linkedin.com/jobs/view/4359182360) - **Confidential** (linkedin) - *NaT*
 
 ### Data Engineer
 
-- [Databricks Data Engineer - Senior Consultant](https://www.indeed.com/viewjob?jk=01b80f716b634c90) - **Deloitte** (indeed) - *2026-01-14*
-- [Databricks Data Engineer - Senior Consultant](https://www.indeed.com/viewjob?jk=ee7f60d67b10be98) - **Deloitte** (indeed) - *2026-01-14*
-- [Data Engineer - Finance Government Programs (Hybrid)](https://www.indeed.com/viewjob?jk=e85086417b0ed4c2) - **CareFirst BlueCross BlueShield** (indeed) - *2026-01-14*
-- [SIEM Data Onboarding Engineer](https://www.indeed.com/viewjob?jk=a94ddfa559d0dbec) - **Booz Allen Hamilton** (indeed) - *2026-01-14*
-- [SIEM Data Onboarding Engineer](https://www.indeed.com/viewjob?jk=8d1a09bc74c30586) - **Booz Allen Hamilton** (indeed) - *2026-01-14*
-- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=0f23aa918b96620b) - **Information Technology Senior Management Forum** (indeed) - *2026-01-14*
-- [ML Engineer/Data Engineer](https://www.indeed.com/viewjob?jk=9adf9a71ec6bf12c) - **Realign** (indeed) - *2026-01-14*
-- [Information Data Engineer-AWS -Databricks](https://www.indeed.com/viewjob?jk=2ce6c68a2304eb18) - **Concepta Innovation Services, LLC** (indeed) - *2026-01-14*
-- [Data Quality Engineer](https://www.indeed.com/viewjob?jk=0aceef92df17443a) - **Network Designs** (indeed) - *2026-01-14*
-- [Critical Facilities Engineer II - Data Center](https://www.indeed.com/viewjob?jk=1192733145b4466e) - **Salute Mission Inc.** (indeed) - *2026-01-14*
-- [Associate Data Engineer](https://www.indeed.com/viewjob?jk=1ed21050cf948e91) - **Working America** (indeed) - *2026-01-14*
-- [Q/A Test Engineer III - Data Validation](https://www.indeed.com/viewjob?jk=a96f18784d98120b) - **Network Designs** (indeed) - *2026-01-14*
-- [Sr. Mechanical Engineer, Data Center, Colocation Regional Engineering - AMER](https://www.indeed.com/viewjob?jk=05822cd4b19816e3) - **Amazon.com** (indeed) - *2026-01-13*
-- [Data Center Infrastructure Engineer Intern](https://www.indeed.com/viewjob?jk=959ff1c1bf986e06) - **Amazon.com** (indeed) - *2026-01-13*
-- [Senior Lead Data Engineer](https://www.indeed.com/viewjob?jk=ecba5e1a26f2ab7a) - **Information Technology Senior Management Forum** (indeed) - *2026-01-13*
-- [Delivery Consultant - Data Engineer, Data and Machine Learning, WWPS US Federal](https://www.indeed.com/viewjob?jk=20c87359d557ac59) - **Amazon Web Services** (indeed) - *2025-12-01*
-- [Delivery Consultant - Data Engineer, Data and Machine Learning, WWPS US Federal](https://www.indeed.com/viewjob?jk=7a90f30acc956819) - **Amazon Web Services** (indeed) - *2025-12-01*
-- [Connectivity Engineer, AWS Data Center, Network Product Development](https://www.indeed.com/viewjob?jk=614a9a8a8c82c12b) - **Amazon.com** (indeed) - *2025-10-22*
-- [Sr. Physical Security Engineer (GovCloud), Data Center Design Engineering](https://www.indeed.com/viewjob?jk=5ae82dcdc730df3b) - **Amazon.com** (indeed) - *2025-06-20*
-- [Data Center Engineer - Storage](https://www.indeed.com/viewjob?jk=34fe3e0e69071031) - **Global Business Solutions, Inc.** (indeed) - *2023-12-19*
+- [ML Engineer/Data Engineer-1](https://www.indeed.com/viewjob?jk=941feeba76900249) - **Realign** (indeed) - *2026-01-16*
+- [Data Engineer | Secret Clearance Required](https://www.indeed.com/viewjob?jk=c6b40d53be19441f) - **Deloitte** (indeed) - *2026-01-15*
+- [Sr Data Engineer - AI](https://www.indeed.com/viewjob?jk=a9e43394032ef893) - **Humana** (indeed) - *2026-01-15*
+- [Data Engineer, Level 3](https://www.indeed.com/viewjob?jk=83aee4c345d1c591) - **nan** (indeed) - *2026-01-15*
+- [Lead Data Engineer (Hybrid)](https://www.indeed.com/viewjob?jk=70109123a657bffa) - **CareFirst BlueCross BlueShield** (indeed) - *2026-01-15*
+- [Data Centre Engineer](https://www.indeed.com/viewjob?jk=950b758f5320518d) - **BrowserStack** (indeed) - *2026-01-15*
+- [Senior Systems Engineer - Data Ingest](https://www.indeed.com/viewjob?jk=27e60eb42b964a66) - **Peraton** (indeed) - *2026-01-15*
+- [Senior Software Engineer - Data Ingest](https://www.indeed.com/viewjob?jk=6a5aab64b86089df) - **Peraton** (indeed) - *2026-01-15*
+- [Systems Engineer 1 - Jira/Confluence/Agile/Data Analytics](https://www.indeed.com/viewjob?jk=c4bdbb6361be9678) - **Captivation Software** (indeed) - *2026-01-15*
+- [Data Center Storage Engineer](https://www.indeed.com/viewjob?jk=ffbd8accc095534a) - **Dobbs Defense Solutions, LLC** (indeed) - *2026-01-15*
+- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=28d6e289864ec396) - **Tekmetric** (indeed) - *2026-01-15*
+- [Data Engineer](https://www.indeed.com/viewjob?jk=bccee2b212fce804) - **MANTECH** (indeed) - *2026-01-15*
+- [Data Analytics & Visualization Engineer - TS/SCI with Polygraph](https://www.indeed.com/viewjob?jk=32ae5d820fdb536f) - **General Dynamics Information Technology** (indeed) - *2026-01-15*
+- [Data Centre Engineer](https://www.indeed.com/viewjob?jk=fcbd3aff46219bf1) - **BrowserStack** (indeed) - *2026-01-15*
+- [Sr. Mechanical Engineer, Data Center, Colocation Regional Engineering - AMER](https://www.indeed.com/viewjob?jk=de7dd5b3f35ed84a) - **Amazon.com** (indeed) - *2026-01-13*
+- [Data Center Infrastructure Engineer Intern](https://www.indeed.com/viewjob?jk=c878cfa46c227452) - **Amazon.com** (indeed) - *2026-01-13*
+- [Delivery Consultant - Data Engineer, Data and Machine Learning, WWPS US Federal](https://www.indeed.com/viewjob?jk=834920e090914ac2) - **Amazon Web Services** (indeed) - *2025-12-01*
+- [Delivery Consultant - Data Engineer, Data and Machine Learning, WWPS US Federal](https://www.indeed.com/viewjob?jk=0fead8c70103681c) - **Amazon Web Services** (indeed) - *2025-12-01*
+- [Connectivity Engineer, AWS Data Center, Network Product Development](https://www.indeed.com/viewjob?jk=53f3989f2acc70a9) - **Amazon.com** (indeed) - *2025-10-22*
+- [Sr. Physical Security Engineer (GovCloud), Data Center Design Engineering](https://www.indeed.com/viewjob?jk=da1cfa8dc310fe3c) - **Amazon.com** (indeed) - *2025-06-20*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4361353913) - **540** (linkedin) - *2026-01-13*
-- [Data Engineer /Data Architect with AI](https://www.linkedin.com/jobs/view/4361277480) - **Node.Digital LLC** (linkedin) - *2026-01-13*
-- [Database Engineer II](https://www.linkedin.com/jobs/view/4353070322) - **Cvent** (linkedin) - *2026-01-13*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4361285872) - **Zendr** (linkedin) - *2026-01-13*
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4361533552) - **TheIncLab** (linkedin) - *2026-01-13*
+- [Database Engineer II](https://www.linkedin.com/jobs/view/4353070322) - **Cvent** (linkedin) - *2026-01-13*
+- [Data Engineer /Data Architect with AI](https://www.linkedin.com/jobs/view/4361277480) - **Node.Digital LLC** (linkedin) - *2026-01-13*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4360777906) - **CGI** (linkedin) - *2026-01-13*
-- [Software Engineer III](https://www.linkedin.com/jobs/view/4361504142) - **ProSync Technology Group, LLC** (linkedin) - *2026-01-13*
-- [Software Engineer I](https://www.linkedin.com/jobs/view/4361504234) - **Reflexive Concepts** (linkedin) - *2026-01-13*
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4361533552) - **TheIncLab** (linkedin) - *2026-01-13*
 - [Lead Data Engineer](https://www.linkedin.com/jobs/view/4354767462) - **nTech Workforce** (linkedin) - *2026-01-13*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4358196238) - **Bespoke Technologies, Inc.** (linkedin) - *2026-01-12*
+- [Software Engineer III](https://www.linkedin.com/jobs/view/4361504142) - **ProSync Technology Group, LLC** (linkedin) - *2026-01-13*
+- [Data Analyst](https://www.linkedin.com/jobs/view/4352851048) - **HRUCKUS** (linkedin) - *2026-01-13*
+- [Software Engineer I](https://www.linkedin.com/jobs/view/4361504234) - **Reflexive Concepts** (linkedin) - *2026-01-13*
+- [DOW - Software Quality Assurance Engineer and Tester](https://www.linkedin.com/jobs/view/4352951019) - **cFocus Software Incorporated** (linkedin) - *2026-01-13*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4325859002) - **Digital Infuzion** (linkedin) - *2026-01-10*
+- [Data Engineer](https://www.linkedin.com/jobs/view/4359904065) - **Dark Wolf** (linkedin) - *2026-01-10*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4359750864) - **D2 Consulting** (linkedin) - *2026-01-09*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4359735955) - **SteerBridge** (linkedin) - *2026-01-09*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4331544650) - **Keystone** (linkedin) - *2026-01-09*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4359658678) - **Edgesource Corporation** (linkedin) - *2026-01-09*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4359687238) - **Edgesource Corporation** (linkedin) - *2026-01-09*
-- [Software Engineer I](https://www.linkedin.com/jobs/view/4352082986) - **Ticketmaster** (linkedin) - *2026-01-08*
-- [Data Engineer II](https://www.linkedin.com/jobs/view/4347349556) - **CoreWeave** (linkedin) - *2026-01-08*
-- [Jr Data Engineer](https://www.linkedin.com/jobs/view/4362420080) - **ExecutivePlacements.com** (linkedin) - *NaT*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4359070569) - **Yakshna Solutions** (linkedin) - *NaT*
+- [Data Engineer I](https://www.linkedin.com/jobs/view/4353501108) - **Inroads** (linkedin) - *NaT*
+- [Data Engineer](https://www.linkedin.com/jobs/view/4316386217) - **CGI** (linkedin) - *NaT*
+- [Data Engineer](https://www.linkedin.com/jobs/view/4357627496) - **AARATECH** (linkedin) - *NaT*
+- [Data Engineer](https://www.linkedin.com/jobs/view/4341008056) - **Motion Recruitment** (linkedin) - *NaT*
 
 ## San Francisco, CA
 
 ### Software Engineer
 
-- [(Senior) Software Engineer (Frontend), Growth](https://www.indeed.com/viewjob?jk=c8a7abad49c732f8) - **Airwallex** (indeed) - *2026-01-15*
-- [(Senior) Software Engineer (Frontend), Growth](https://www.indeed.com/viewjob?jk=336d45231a765c12) - **Airwallex** (indeed) - *2026-01-15*
-- [Senior, Software Engineer — Backend](https://www.indeed.com/viewjob?jk=32f885d9b283cc36) - **Walmart** (indeed) - *2026-01-15*
-- [Radio Software Engineer - Intern](https://www.indeed.com/viewjob?jk=0fba23d2f94ad449) - **Joby Aviation** (indeed) - *2026-01-14*
-- [Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers](https://www.indeed.com/viewjob?jk=1c214e74f77388c8) - **Amazon.com** (indeed) - *2025-11-18*
-- [Embedded Software Development Engineer II, AWS Hardware Engineering Services](https://www.indeed.com/viewjob?jk=6b857f2e76f235e7) - **Amazon.com** (indeed) - *2025-11-14*
-- [Sr. Front End Engineer, Device Design Team](https://www.indeed.com/viewjob?jk=d18b8da4439dcd0e) - **Amazon.com** (indeed) - *2025-11-11*
-- [Sr Software Dev Engineer, Machine Learning, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=4f4de13ad8192971) - **Amazon.com** (indeed) - *2025-11-03*
-- [Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools](https://www.indeed.com/viewjob?jk=fa84fb44ba615244) - **Amazon Web Services** (indeed) - *2025-11-03*
-- [Sr. Firmware Engineer, Annapurna Labs, Machine Learning Acceleration - Power and Performance](https://www.indeed.com/viewjob?jk=b6af7b477dded512) - **Amazon Web Services** (indeed) - *2025-11-03*
-- [Sr. Software Dev Engineer, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=6b9afff03d861fdb) - **Amazon.com** (indeed) - *2025-10-16*
-- [Software Engineer II](https://www.indeed.com/viewjob?jk=9b49d9425b155aa2) - **Amazon.com** (indeed) - *2025-10-09*
-- [Software Development Engineer II, SPB Advertiser Guidance](https://www.indeed.com/viewjob?jk=dbde202c716767f8) - **Amazon.com** (indeed) - *2025-10-09*
-- [Software Development Engineer, AGI](https://www.indeed.com/viewjob?jk=e3be4a9dae0dbaa1) - **Amazon.com** (indeed) - *2025-07-23*
-- [Software Development Engineer - Amazon Redshift, Query Processing](https://www.indeed.com/viewjob?jk=9d7d2f27c2135016) - **Amazon.com** (indeed) - *2025-06-24*
-- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=937b39cfbcb096cb) - **Amazon Web Services** (indeed) - *2025-05-28*
-- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=431db70fe00b89cf) - **Amazon Web Services** (indeed) - *2025-05-28*
-- [Senior Software Engineer - Query Processing, Aurora DSQL](https://www.indeed.com/viewjob?jk=1ffd076f5d7d0833) - **Amazon Web Services** (indeed) - *2025-05-20*
-- [Software Development Engineer, Frontier AI & Robotics](https://www.indeed.com/viewjob?jk=1c46e4b873902cd7) - **Amazon.com** (indeed) - *2025-02-28*
-- [Sr. Software Development Engineer, FAR (Frontier AI & Robotics)](https://www.indeed.com/viewjob?jk=f5ebfa6047650a82) - **Amazon.com** (indeed) - *2025-02-28*
+- [Software Engineer III, Data Cloud, Spanner Graph Intelligence](https://www.indeed.com/viewjob?jk=123a75dca5af6499) - **Google** (indeed) - *2026-01-16*
+- [Lead BIOS / Firmware Engineer](https://www.indeed.com/viewjob?jk=019a616acfe5f0b9) - **AMD** (indeed) - *2026-01-15*
+- [Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers](https://www.indeed.com/viewjob?jk=b2d2da05d359f620) - **Amazon.com** (indeed) - *2025-11-18*
+- [Embedded Software Development Engineer II, AWS Hardware Engineering Services](https://www.indeed.com/viewjob?jk=e2f1df8935e5ff60) - **Amazon.com** (indeed) - *2025-11-14*
+- [Sr. Front End Engineer, Device Design Team](https://www.indeed.com/viewjob?jk=51d2d3b4c563ab3a) - **Amazon.com** (indeed) - *2025-11-11*
+- [Sr Software Dev Engineer, Machine Learning, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=7fc74f020716d9d9) - **Amazon.com** (indeed) - *2025-11-03*
+- [Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools](https://www.indeed.com/viewjob?jk=792cb29a005313d2) - **Amazon Web Services** (indeed) - *2025-11-03*
+- [Sr. Firmware Engineer, Annapurna Labs, Machine Learning Acceleration - Power and Performance](https://www.indeed.com/viewjob?jk=773a47a8536ffb03) - **Amazon Web Services** (indeed) - *2025-11-03*
+- [Sr. Software Dev Engineer, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=a5df8a62b2000a62) - **Amazon.com** (indeed) - *2025-10-16*
+- [Software Engineer II](https://www.indeed.com/viewjob?jk=cbac8fed87511311) - **Amazon.com** (indeed) - *2025-10-09*
+- [Software Development Engineer II, SPB Advertiser Guidance](https://www.indeed.com/viewjob?jk=72a3c1c12b0c9633) - **Amazon.com** (indeed) - *2025-10-09*
+- [Software Engineer II](https://www.indeed.com/viewjob?jk=3dedf2da837e4fe4) - **Amazon.com** (indeed) - *2025-10-09*
+- [Software Development Engineer, AGI](https://www.indeed.com/viewjob?jk=79bac9167799c873) - **Amazon.com** (indeed) - *2025-07-23*
+- [Sr. SDE C/C++ Hardware/Software Co-Design, Machine Learning Acceleration Systems](https://www.indeed.com/viewjob?jk=87d01ba98172f3d7) - **Amazon Web Services** (indeed) - *2025-07-21*
+- [Software Development Engineer - Amazon Redshift, Query Processing](https://www.indeed.com/viewjob?jk=b28336e14fb9e9e7) - **Amazon.com** (indeed) - *2025-06-24*
+- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=1fc288e5cfa0205a) - **Amazon Web Services** (indeed) - *2025-05-28*
+- [Software Development Engineer, AWS Compute Services](https://www.indeed.com/viewjob?jk=0e987fc61fa56e03) - **Amazon Web Services** (indeed) - *2025-05-28*
+- [Senior Software Engineer - Query Processing, Aurora DSQL](https://www.indeed.com/viewjob?jk=d8750bede4f41608) - **Amazon Web Services** (indeed) - *2025-05-20*
+- [Sr. Software Development Engineer, FAR (Frontier AI & Robotics)](https://www.indeed.com/viewjob?jk=e1cfa8d40c7c241e) - **Amazon.com** (indeed) - *2025-02-28*
+- [Software Development Engineer, Frontier AI & Robotics](https://www.indeed.com/viewjob?jk=2bd7d8501cb93d3b) - **Amazon.com** (indeed) - *2025-02-28*
+- [Associate Software Engineer - (Graduate)](https://www.linkedin.com/jobs/view/4362465858) - **Encord** (linkedin) - *2026-01-15*
+- [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4328991042) - **Tinder** (linkedin) - *2026-01-14*
+- [Software Engineer](https://www.linkedin.com/jobs/view/4204412244) - **Plaid** (linkedin) - *2026-01-14*
+- [Software Engineer](https://www.linkedin.com/jobs/view/4352357407) - **Giga** (linkedin) - *2026-01-14*
 - [Software Engineer I](https://www.linkedin.com/jobs/view/4325252246) - **Twitch** (linkedin) - *2026-01-13*
 - [Apprentice Engineer - Backend](https://www.linkedin.com/jobs/view/4361506513) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4195258183) - **Glean** (linkedin) - *2026-01-13*
+- [Software Engineer Director, Compute Infrastructure](https://www.linkedin.com/jobs/view/4361302208) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4361551460) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4195258183) - **Glean** (linkedin) - *2026-01-13*
 - [Software Engineer](https://www.linkedin.com/jobs/view/4360730069) - **Ever** (linkedin) - *2026-01-12*
 - [Software Engineer, University Grad](https://www.linkedin.com/jobs/view/4295123743) - **Glean** (linkedin) - *2026-01-12*
 - [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4282701327) - **Applied Intuition** (linkedin) - *2026-01-11*
-- [Software Engineer 1](https://www.linkedin.com/jobs/view/4345421738) - **Intuit** (linkedin) - *2026-01-10*
 - [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4324981587) - **Affirm** (linkedin) - *2026-01-10*
 - [Software Engineer, Fullstack, Early Career](https://www.linkedin.com/jobs/view/4334158613) - **Notion** (linkedin) - *2026-01-09*
 - [Software Engineer, Search Platform](https://www.linkedin.com/jobs/view/4334376914) - **Notion** (linkedin) - *2026-01-09*
 - [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4334357268) - **Notion** (linkedin) - *2026-01-09*
 - [Software Engineer](https://www.linkedin.com/jobs/view/4344847178) - **Twitch** (linkedin) - *2026-01-09*
-- [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4294691515) - **Stripe** (linkedin) - *2026-01-08*
-- [Web Software Engineer](https://www.linkedin.com/jobs/view/4344498083) - **Wing** (linkedin) - *2026-01-08*
-- [Software Engineer, Primitive Foundations](https://www.linkedin.com/jobs/view/4358765684) - **Notion** (linkedin) - *2026-01-08*
-- [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4328991042) - **Tinder** (linkedin) - *NaT*
-- [Software Engineer](https://www.linkedin.com/jobs/view/4204412244) - **Plaid** (linkedin) - *NaT*
-- [Associate Software Engineer - (Graduate)](https://www.linkedin.com/jobs/view/4362465858) - **Encord** (linkedin) - *NaT*
-- [Software Engineer](https://www.linkedin.com/jobs/view/4352357407) - **Giga** (linkedin) - *NaT*
+- [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4297642437) - **Scale AI** (linkedin) - *NaT*
+- [Software Engineer 1](https://www.linkedin.com/jobs/view/4363662440) - **Intuit** (linkedin) - *NaT*
+- [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4335283506) - **Valon** (linkedin) - *NaT*
 
 ### Site Reliability Engineer
 
+- [Site Reliability Engineer - Hardware Infrastructure](https://www.indeed.com/viewjob?jk=6ccf10d729b93a39) - **NVIDIA** (indeed) - *2026-01-16*
+- [Site Reliability Engineer, Lark - USDS](https://www.indeed.com/viewjob?jk=cb33f39a42cfec4a) - **TikTok** (indeed) - *2026-01-15*
+- [Software Engineer III, Site Reliability Engineering](https://www.indeed.com/viewjob?jk=b4bd8fad087b4e2a) - **Google** (indeed) - *2026-01-15*
+- [Sr Site Reliability Engineer](https://www.indeed.com/viewjob?jk=a15b845c6e899e91) - **PayPal** (indeed) - *2026-01-15*
+- [Sr/Staff Site Reliability Engineer, Consumer Apps](https://www.indeed.com/viewjob?jk=d6203608dbb98a55) - **Attain** (indeed) - *2026-01-15*
+- [Senior Site Reliability Engineer - Apple Services Engineering (ASE) / iCloud](https://www.indeed.com/viewjob?jk=47c760531ac1739e) - **Apple** (indeed) - *2026-01-15*
 - [Senior Software Engineer, Site Reliability Engineering](https://www.indeed.com/viewjob?jk=133b3f58d1d48259) - **Google** (indeed) - *2026-01-14*
 - [Sr. Site Reliability Engineer](https://www.indeed.com/viewjob?jk=92c191a4ea1b3ef0) - **Jerry** (indeed) - *2026-01-12*
 - [Senior Site Reliability Engineer](https://www.indeed.com/viewjob?jk=4e7fa68620a9d578) - **Fivetran** (indeed) - *2026-01-12*
@@ -227,10 +230,6 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-15 09:
 - [Senior Reliability Engineer, Mid Campus - Site Services](https://www.indeed.com/viewjob?jk=ba0b579f35df168f) - **Genentech** (indeed) - *2026-01-12*
 - [Senior Systems Engineer, Site Reliability Engineering, Google Cloud](https://www.indeed.com/viewjob?jk=9c68426ce2be1cad) - **Google** (indeed) - *2026-01-12*
 - [Site Reliability Engineer, Cloud Infrastructure](https://www.indeed.com/viewjob?jk=57a5f2402957f6ca) - **Quizlet** (indeed) - *2026-01-10*
-- [Site Reliability Engineer - Platform](https://www.indeed.com/viewjob?jk=ffbf3cc3fe09ce5b) - **CodeRabbit** (indeed) - *2026-01-09*
-- [Senior Software Engineer, Site Reliability Engineering](https://www.indeed.com/viewjob?jk=7818cbe309b0c95e) - **Google** (indeed) - *2026-01-09*
-- [Staff Site Reliability Engineer, Energy Software](https://www.indeed.com/viewjob?jk=0efba04825e335f1) - **Tesla** (indeed) - *2026-01-08*
-- [Site Reliability Engineer, Tesla Energy Services Platform](https://www.indeed.com/viewjob?jk=50674e4013656279) - **Tesla** (indeed) - *2026-01-08*
 - [Staff Engineer, Site Reliability](https://www.linkedin.com/jobs/view/4361551469) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Software Engineer Director, Compute Infrastructure](https://www.linkedin.com/jobs/view/4361302208) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Sr. Staff Software Engineer, LinkedIn AI Hiring Assistant](https://www.linkedin.com/jobs/view/4361501499) - **LinkedIn** (linkedin) - *2026-01-13*
@@ -238,87 +237,87 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-15 09:
 - [Senior Software Engineer - Fullstack (Continuous Compliance Monitoring)](https://www.linkedin.com/jobs/view/4361276941) - **LinkedIn** (linkedin) - *2026-01-13*
 - [iOS Software Engineer](https://www.linkedin.com/jobs/view/4361311742) - **LinkedIn** (linkedin) - *2026-01-13*
 - [iOS Software Engineer - Platforms & Experience](https://www.linkedin.com/jobs/view/4361351622) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Senior Software Engineer - Security Infrastructure](https://www.linkedin.com/jobs/view/4361371548) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Staff Software Engineer - Applications](https://www.linkedin.com/jobs/view/4361321748) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Sr. Software Engineer, Fullstack iOS](https://www.linkedin.com/jobs/view/4361531500) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Staff Software Engineer - Compute Infrastructure](https://www.linkedin.com/jobs/view/4361521564) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Sr. Staff Software Engineer, AI Automation (Developer Productivity)](https://www.linkedin.com/jobs/view/4361321745) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Sr. Staff Software Engineer, Developer Productivity Insights](https://www.linkedin.com/jobs/view/4361292739) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Sr. Staff Software Engineer, Reliability (Edge Infrastructure)](https://www.linkedin.com/jobs/view/4361268961) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Principal Staff Software Engineer - Data Privacy & Governance Infrastructure](https://www.linkedin.com/jobs/view/4361381497) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Sr. Staff Software Engineer](https://www.linkedin.com/jobs/view/4361371554) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Software Engineer, TypeScript and JavaScript](https://www.linkedin.com/jobs/view/4354405799) - **Google** (linkedin) - *2026-01-13*
-- [Principal Staff Software Engineer, AI Training Platform](https://www.linkedin.com/jobs/view/4361561419) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Software Engineer, Fullstack, Early Career](https://www.linkedin.com/jobs/view/4334158613) - **Notion** (linkedin) - *2026-01-09*
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4341500035) - **LiveRamp** (linkedin) - *NaT*
+- [Sr. Staff Software Engineer, AI Automation (Developer Productivity)](https://www.linkedin.com/jobs/view/4361321745) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Sr. Software Engineer, Fullstack iOS](https://www.linkedin.com/jobs/view/4361531500) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Senior Software Engineer - Security Infrastructure](https://www.linkedin.com/jobs/view/4361371548) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Sr. Staff Software Engineer, Reliability (Edge Infrastructure)](https://www.linkedin.com/jobs/view/4361268961) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Software Engineer- Cash App Card](https://www.linkedin.com/jobs/view/4361294642) - **Cash App** (linkedin) - *2026-01-13*
+- [Staff Software Engineer - Applications](https://www.linkedin.com/jobs/view/4361321748) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Staff Software Engineer - Compute Infrastructure](https://www.linkedin.com/jobs/view/4361521564) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Sr. Staff Software Engineer](https://www.linkedin.com/jobs/view/4361371554) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Principal Staff Software Engineer - Data Privacy & Governance Infrastructure](https://www.linkedin.com/jobs/view/4361381497) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Sr. Staff Software Engineer, Developer Productivity Insights](https://www.linkedin.com/jobs/view/4361292739) - **LinkedIn** (linkedin) - *2026-01-13*
+- [AI Agent Software Engineer](https://www.linkedin.com/jobs/view/4361373695) - **Trinity Technology Solutions LLC** (linkedin) - *2026-01-13*
+- [Software Engineer, Workspaces - Weights & Biases](https://www.linkedin.com/jobs/view/4352792501) - **Weights & Biases** (linkedin) - *2026-01-13*
 
 ### Cloud Engineer
 
-- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=d6cbb3df1c2ba80b) - **Atlassian** (indeed) - *2026-01-15*
-- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=9081ce9bee6a2c55) - **Atlassian** (indeed) - *2026-01-15*
-- [(Senior) Software Engineer (Frontend), Growth](https://www.indeed.com/viewjob?jk=c8a7abad49c732f8) - **Airwallex** (indeed) - *2026-01-15*
-- [(Senior) Software Engineer (Frontend), Growth](https://www.indeed.com/viewjob?jk=336d45231a765c12) - **Airwallex** (indeed) - *2026-01-15*
-- [Senior, Software Engineer — Backend](https://www.indeed.com/viewjob?jk=32f885d9b283cc36) - **Walmart** (indeed) - *2026-01-15*
-- [Senior Flight Dynamics Engineer (5222C), Space Sciences Laboratory - 83690](https://www.indeed.com/viewjob?jk=013daf83290dee91) - **University of California Berkeley** (indeed) - *2026-01-14*
-- [SERDES Analog Design Engineer/ Architect](https://www.indeed.com/viewjob?jk=45edb55c3987ec66) - **AMD** (indeed) - *2026-01-14*
-- [Senior/Staff Thermal Engineer](https://www.indeed.com/viewjob?jk=fbdc1d76c57eaa80) - **Joby Aviation** (indeed) - *2026-01-14*
-- [SENIOR SYSTEM TEST ENGINEER](https://www.indeed.com/viewjob?jk=2d275fc5924e12b6) - **Intuitive (Intuitive Surgical)** (indeed) - *2026-01-14*
-- [Sr Software Dev Engineer, Machine Learning, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=4f4de13ad8192971) - **Amazon.com** (indeed) - *2025-11-03*
-- [Sr. Software Dev Engineer, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=6b9afff03d861fdb) - **Amazon.com** (indeed) - *2025-10-16*
-- [Senior Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services](https://www.indeed.com/viewjob?jk=8d96380788633477) - **Amazon.com** (indeed) - *2025-10-07*
-- [Sr. Hardware Engineer - ML Acceleration, Annapurna Labs](https://www.indeed.com/viewjob?jk=0cae6c1fac390047) - **Amazon Web Services** (indeed) - *2025-09-30*
-- [Sr. ASIC Design Engineer, Blink/Ring ASIC Team](https://www.indeed.com/viewjob?jk=4bbaefd6bd33f9e5) - **Amazon.com** (indeed) - *2025-06-18*
-- [Senior Software Engineer - Query Processing, Aurora DSQL](https://www.indeed.com/viewjob?jk=1ffd076f5d7d0833) - **Amazon Web Services** (indeed) - *2025-05-20*
-- [Sr ML Compiler Engineer , Annapurna Labs](https://www.indeed.com/viewjob?jk=100c401439b506aa) - **Amazon Web Services** (indeed) - *2025-05-06*
-- [Machine Learning - Compiler Engineer II, AWS Neuron, Annapurna Labs](https://www.indeed.com/viewjob?jk=1c2cc56255e5df16) - **Amazon Web Services** (indeed) - *2025-03-20*
-- [Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs](https://www.indeed.com/viewjob?jk=2cfd5a25018986db) - **Amazon Web Services** (indeed) - *2025-03-19*
-- [Sr. Software Development Engineer, FAR (Frontier AI & Robotics)](https://www.indeed.com/viewjob?jk=f5ebfa6047650a82) - **Amazon.com** (indeed) - *2025-02-28*
-- [Senior Operations Engineer, Operations Engineering](https://www.indeed.com/viewjob?jk=3b88c25c314e7bf5) - **Amazon.com** (indeed) - *2025-02-05*
-- [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4361551460) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Senior Process Safety Engineer (HAZOP / LOPA)](https://www.indeed.com/viewjob?jk=799107b0677c6336) - **nan** (indeed) - *2026-01-16*
+- [Senior Mechanical Engineer (Preconstruction)](https://www.indeed.com/viewjob?jk=69c50f32c7728274) - **nan** (indeed) - *2026-01-16*
+- [Senior Instrumentation and Controls Engineer (Preconstruction)](https://www.indeed.com/viewjob?jk=3e8add10727ae5d4) - **nan** (indeed) - *2026-01-16*
+- [Senior Electrical Engineer (Preconstruction)](https://www.indeed.com/viewjob?jk=f910d81f0397469c) - **nan** (indeed) - *2026-01-16*
+- [Senior Piping Engineer (Preconstruction)](https://www.indeed.com/viewjob?jk=eee1beb34f49ccf4) - **nan** (indeed) - *2026-01-16*
+- [Senior DSP and ASIC Engineer](https://www.indeed.com/viewjob?jk=8e57ac1042fe4d1f) - **Broadcom** (indeed) - *2026-01-16*
+- [Software Engineer III, Data Cloud, Spanner Graph Intelligence](https://www.indeed.com/viewjob?jk=123a75dca5af6499) - **Google** (indeed) - *2026-01-16*
+- [Senior Actuators Manufacturing Engineer](https://www.indeed.com/viewjob?jk=f209dea71f1dd15b) - **Joby Aviation** (indeed) - *2026-01-15*
+- [Sr Software Dev Engineer, Machine Learning, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=7fc74f020716d9d9) - **Amazon.com** (indeed) - *2025-11-03*
+- [Sr. Firmware Engineer, Annapurna Labs, Machine Learning Acceleration - Power and Performance](https://www.indeed.com/viewjob?jk=773a47a8536ffb03) - **Amazon Web Services** (indeed) - *2025-11-03*
+- [Sr. Software Dev Engineer, Sponsored Products and Brands Ads Response Prediction](https://www.indeed.com/viewjob?jk=a5df8a62b2000a62) - **Amazon.com** (indeed) - *2025-10-16*
+- [Senior Hardware Development Engineer - EC2 Networking and Outpost hardware team, Hardware Engineering Services](https://www.indeed.com/viewjob?jk=27cfe838ac5505d3) - **Amazon.com** (indeed) - *2025-10-07*
+- [Sr. Hardware Engineer - ML Acceleration, Annapurna Labs](https://www.indeed.com/viewjob?jk=bd336084580a1cb2) - **Amazon Web Services** (indeed) - *2025-09-30*
+- [Sr. ASIC Design Engineer, Blink/Ring ASIC Team](https://www.indeed.com/viewjob?jk=d059e9f411b5a479) - **Amazon.com** (indeed) - *2025-06-18*
+- [Senior Software Engineer - Query Processing, Aurora DSQL](https://www.indeed.com/viewjob?jk=d8750bede4f41608) - **Amazon Web Services** (indeed) - *2025-05-20*
+- [Sr ML Compiler Engineer , Annapurna Labs](https://www.indeed.com/viewjob?jk=b94414eb1f16f454) - **Amazon Web Services** (indeed) - *2025-05-06*
+- [Machine Learning - Compiler Engineer II, AWS Neuron, Annapurna Labs](https://www.indeed.com/viewjob?jk=af02df524b5aa142) - **Amazon Web Services** (indeed) - *2025-03-20*
+- [Sr. Machine Learning - Compiler Engineer III, AWS Neuron, Annapurna Labs](https://www.indeed.com/viewjob?jk=6dba58379eba164f) - **Amazon Web Services** (indeed) - *2025-03-19*
+- [Sr. Software Development Engineer, FAR (Frontier AI & Robotics)](https://www.indeed.com/viewjob?jk=e1cfa8d40c7c241e) - **Amazon.com** (indeed) - *2025-02-28*
+- [Senior Operations Engineer, Operations Engineering](https://www.indeed.com/viewjob?jk=bf32289c93674349) - **Amazon.com** (indeed) - *2025-02-05*
 - [Software Engineer Director, Compute Infrastructure](https://www.linkedin.com/jobs/view/4361302208) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4361551460) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Sr. Staff Software Engineer, LinkedIn AI Hiring Assistant](https://www.linkedin.com/jobs/view/4361501499) - **LinkedIn** (linkedin) - *2026-01-13*
-- [Cloud Engineer III](https://www.linkedin.com/jobs/view/4354773922) - **Verily** (linkedin) - *2026-01-13*
-- [Senior Software Engineer - Security Infrastructure](https://www.linkedin.com/jobs/view/4361371548) - **LinkedIn** (linkedin) - *2026-01-13*
 - [iOS Software Engineer - Platforms & Experience](https://www.linkedin.com/jobs/view/4361351622) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Cloud Engineer III](https://www.linkedin.com/jobs/view/4354773922) - **Verily** (linkedin) - *2026-01-13*
 - [iOS Software Engineer](https://www.linkedin.com/jobs/view/4361311742) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Senior Software Engineer - Security Infrastructure](https://www.linkedin.com/jobs/view/4361371548) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Staff Software Engineer - Applications](https://www.linkedin.com/jobs/view/4361321748) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Staff Software Engineer - Compute Infrastructure](https://www.linkedin.com/jobs/view/4361521564) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Sr. Staff Software Engineer](https://www.linkedin.com/jobs/view/4361371554) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Principal Staff Software Engineer - Data Privacy & Governance Infrastructure](https://www.linkedin.com/jobs/view/4361381497) - **LinkedIn** (linkedin) - *2026-01-13*
+- [DevOps Engineer MTS](https://www.linkedin.com/jobs/view/4361642326) - **Salesforce** (linkedin) - *2026-01-13*
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4361147016) - **Premier Group** (linkedin) - *2026-01-12*
 - [Sr Devops Engineer](https://www.linkedin.com/jobs/view/4361223342) - **SIDRAM TECHNOLOGIES** (linkedin) - *2026-01-12*
 - [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4345378766) - **Persistent Systems** (linkedin) - *2026-01-12*
 - [Software Engineer, Fullstack, Early Career](https://www.linkedin.com/jobs/view/4334158613) - **Notion** (linkedin) - *2026-01-09*
 - [Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4334267923) - **Notion** (linkedin) - *2026-01-09*
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4331967195) - **Ascendion** (linkedin) - *2026-01-09*
-- [Site Reliability Engineer, Google Distributed Cloud, Connected SRE](https://www.linkedin.com/jobs/view/4344901485) - **Google** (linkedin) - *2026-01-09*
-- [DevOps Engineer: 25-07300](https://www.linkedin.com/jobs/view/4344940209) - **Akraya, Inc.** (linkedin) - *2026-01-09*
-- [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4294691515) - **Stripe** (linkedin) - *2026-01-08*
-- [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4195257195) - **Glean** (linkedin) - *2026-01-08*
+- [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4359007632) - **Sibitalent Corp** (linkedin) - *NaT*
+- [Sr. DevOps Engineer - AWS](https://www.linkedin.com/jobs/view/4359089450) - **Sogeti** (linkedin) - *NaT*
 
 ### Data Engineer
 
-- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=d6cbb3df1c2ba80b) - **Atlassian** (indeed) - *2026-01-15*
-- [Senior Data Engineer](https://www.indeed.com/viewjob?jk=9081ce9bee6a2c55) - **Atlassian** (indeed) - *2026-01-15*
-- [Job Title: Senior Data Engineer](https://www.indeed.com/viewjob?jk=e04ac5844a349935) - **Triesten Technologies Private Limited** (indeed) - *2026-01-15*
-- [Databricks Data Engineer - Senior Consultant](https://www.indeed.com/viewjob?jk=0c183955aaf53350) - **Deloitte** (indeed) - *2026-01-14*
-- [Databricks Data Engineer - Senior Consultant](https://www.indeed.com/viewjob?jk=45e3486d741d9e5a) - **Deloitte** (indeed) - *2026-01-14*
-- [Data Engineer](https://www.indeed.com/viewjob?jk=0135a17d63ef4692) - **Adobe** (indeed) - *2026-01-14*
-- [Data Scientist (ML Engineer)](https://www.indeed.com/viewjob?jk=dc848c78dfc0881b) - **Franklin Templeton** (indeed) - *2026-01-14*
-- [Senior Data Engineer, Analytics](https://www.indeed.com/viewjob?jk=6144d84521ff7d2d) - **Discord** (indeed) - *2026-01-14*
-- [Data Center Infrastructure Engineer Intern](https://www.indeed.com/viewjob?jk=608f623279a17259) - **Amazon.com** (indeed) - *2026-01-13*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=0626911785a2ae44) - **Amazon.com** (indeed) - *2025-12-17*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=578c3610705e8dcc) - **Amazon.com** (indeed) - *2025-12-17*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=0e4d86b0430ec9eb) - **Amazon.com** (indeed) - *2025-12-17*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=29fc0f0ea3e17b5e) - **Amazon.com** (indeed) - *2025-12-17*
-- [Data Engineer](https://www.indeed.com/viewjob?jk=e0b10e79cc531492) - **Amazon.com** (indeed) - *2025-12-11*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=f27d6ba8799bc1b0) - **Amazon.com** (indeed) - *2025-12-04*
-- [Senior Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=cc86aac88621f386) - **Amazon.com** (indeed) - *2025-11-20*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=8a4d2d2ecc35a45d) - **Amazon.com** (indeed) - *2025-10-29*
-- [Connectivity Engineer, AWS Data Center, Network Product Development](https://www.indeed.com/viewjob?jk=6a82a55ee768e6f1) - **Amazon.com** (indeed) - *2025-10-22*
-- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=e7c58c3adec063e8) - **Amazon.com** (indeed) - *2025-10-01*
-- [Mid - Senior Civil Structural Engineer - Data Center Mission Critical](https://www.indeed.com/viewjob?jk=a7821ecc2aea6a54) - **ENERCON SERVICES, INC** (indeed) - *2025-08-19*
+- [Software Engineer III, Data Cloud, Spanner Graph Intelligence](https://www.indeed.com/viewjob?jk=123a75dca5af6499) - **Google** (indeed) - *2026-01-16*
+- [Data Engineer, Residential Energy Operations](https://www.indeed.com/viewjob?jk=73dd1b58ac741566) - **Tesla** (indeed) - *2026-01-16*
+- [Senior Data Engineer [Remote-US]](https://www.indeed.com/viewjob?jk=afd8e52c50aff810) - **Quanata** (indeed) - *2026-01-15*
+- [Data Engineer](https://www.indeed.com/viewjob?jk=ba99f55fc8df05fb) - **archer** (indeed) - *2026-01-15*
+- [Staff Software Engineer (Data Platforms)](https://www.indeed.com/viewjob?jk=e8472c52819d5c02) - **Prosper** (indeed) - *2026-01-15*
+- [Data Engineer, Powertrain & Field Reliability](https://www.indeed.com/viewjob?jk=5298593a2ddc69cb) - **Tesla** (indeed) - *2026-01-15*
+- [Senior Data Engineer, Compliance Engineering & Technology](https://www.indeed.com/viewjob?jk=e4412a540d8493f0) - **Block** (indeed) - *2026-01-15*
+- [Sr. Data Engineer | Analytics](https://www.indeed.com/viewjob?jk=19bfbc0db75e6cfd) - **Machinify** (indeed) - *2026-01-15*
+- [Senior Engineer – IaaS (Cryptography and Data Protection)](https://www.indeed.com/viewjob?jk=a243066b28a1080b) - **GEICO** (indeed) - *2026-01-15*
+- [Data Center Infrastructure Engineer Intern](https://www.indeed.com/viewjob?jk=136625b82a9470ef) - **Amazon.com** (indeed) - *2026-01-13*
+- [Data Engineer, Analytics (Technical Leadership)](https://www.indeed.com/viewjob?jk=3c4e8037a7225874) - **Meta** (indeed) - *2026-01-06*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=6be023a0695bd9fe) - **Amazon.com** (indeed) - *2025-12-17*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=7de6658e3ce745fb) - **Amazon.com** (indeed) - *2025-12-17*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=4857c985c4f6cb1e) - **Amazon.com** (indeed) - *2025-12-17*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=8ec112511aa9fef0) - **Amazon.com** (indeed) - *2025-12-17*
+- [Data Engineer](https://www.indeed.com/viewjob?jk=320392fd195ce87f) - **Amazon.com** (indeed) - *2025-12-11*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=bce94c3ff7bf607e) - **Amazon.com** (indeed) - *2025-12-04*
+- [Senior Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=c71bf18f985b9cde) - **Amazon.com** (indeed) - *2025-11-20*
+- [Language Engineer, Artificial General Intelligence - Data Services](https://www.indeed.com/viewjob?jk=302da0300a2a6f88) - **Amazon.com** (indeed) - *2025-10-29*
+- [Connectivity Engineer, AWS Data Center, Network Product Development](https://www.indeed.com/viewjob?jk=d441003985401a07) - **Amazon.com** (indeed) - *2025-10-22*
+- [Data Engineer](https://www.linkedin.com/jobs/view/4359123738) - **Adobe** (linkedin) - *2026-01-15*
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4361634362) - **Toyota Research Institute** (linkedin) - *2026-01-14*
-- [Data Engineer - Data Science](https://www.linkedin.com/jobs/view/4361341597) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Senior Data Engineer - Data Science](https://www.linkedin.com/jobs/view/4361341596) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4361551460) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Data Engineer- Data Science Intern, Master's - Summer 2026 (Mountain View, CA)](https://www.linkedin.com/jobs/view/4361501501) - **LinkedIn** (linkedin) - *2026-01-13*
@@ -326,15 +325,15 @@ Automated job listings for DC and SF (Last 7 days). Last updated: 2026-01-15 09:
 - [Software Engineer Director, Compute Infrastructure](https://www.linkedin.com/jobs/view/4361302208) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Apprentice Engineer - Artificial Intelligence / Machine Learning](https://www.linkedin.com/jobs/view/4361541508) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Staff Data Scientist](https://www.linkedin.com/jobs/view/4361590525) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4361291070) - **Atlassian** (linkedin) - *2026-01-13*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4359462015) - **Brex** (linkedin) - *2026-01-13*
+- [Backend & Data Engineer](https://www.linkedin.com/jobs/view/4354416032) - **BOND (YCX25)** (linkedin) - *2026-01-13*
 - [Senior Software Engineer - Security Infrastructure](https://www.linkedin.com/jobs/view/4361371548) - **LinkedIn** (linkedin) - *2026-01-13*
+- [Senior Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4361511497) - **LinkedIn** (linkedin) - *2026-01-13*
 - [Data Engineer, Analytics](https://www.linkedin.com/jobs/view/4313819229) - **OpenAI** (linkedin) - *2026-01-12*
 - [Data Engineer Intern](https://www.linkedin.com/jobs/view/4335080770) - **Zoox** (linkedin) - *2026-01-11*
 - [Data Engineer, Analytics (University Grad)](https://www.linkedin.com/jobs/view/4350323647) - **Meta** (linkedin) - *2026-01-09*
 - [Data Engineer](https://www.linkedin.com/jobs/view/4337845270) - **Adobe** (linkedin) - *2026-01-09*
 - [Software Engineer, Fullstack, Early Career](https://www.linkedin.com/jobs/view/4334158613) - **Notion** (linkedin) - *2026-01-09*
-- [Data Engineer, Go-To-Market](https://www.linkedin.com/jobs/view/4339054526) - **Notion** (linkedin) - *2026-01-08*
-- [Data Engineer, Finance](https://www.linkedin.com/jobs/view/4344448909) - **Notion** (linkedin) - *2026-01-08*
-- [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4294691515) - **Stripe** (linkedin) - *2026-01-08*
-- [Data Engineer](https://www.linkedin.com/jobs/view/4361675897) - **Baselayer** (linkedin) - *NaT*
+- [Analytics Engineer (L4) - Commerce Core](https://www.linkedin.com/jobs/view/4314930088) - **Netflix** (linkedin) - *NaT*
 
