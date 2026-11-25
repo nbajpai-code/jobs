@@ -1,5 +1,5 @@
 # Tech Jobs Aggregator
 
-Automated job listings for DC and SF (Last 7 days). Last updated: 2026-11-24 19:52:59 UTC
+Automated job listings for DC and SF (Last 7 days). Last updated: 2026-11-25 18:56:43 UTC
 
 No jobs found in the last run.
